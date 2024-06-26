@@ -1,0 +1,19 @@
+{
+    "name": "rajan/profiler",
+    "description": "This is profiler for laravel application code",
+    "autoload": {
+        "psr-4": {
+            "Rajan\\Profiler\\": "src/"
+        },
+	"files": [
+	    "src/helpers.php"
+	]
+    },
+    "authors": [
+        {
+            "name": "rajanbajaj",
+            "email": "rajanbajajkota@gmail.com"
+        }
+    ],
+    "require": {}
+}
