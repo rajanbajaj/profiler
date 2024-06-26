@@ -1,9 +1,9 @@
 {
-    "name": "rajan/profiler",
+    "name": "rajanbajaj/profiler",
     "description": "This is profiler for laravel application code",
     "autoload": {
         "psr-4": {
-            "Rajan\\Profiler\\": "src/"
+            "Rajanbajaj\\Profiler\\": "src/"
         },
 	"files": [
 	    "src/helpers.php"

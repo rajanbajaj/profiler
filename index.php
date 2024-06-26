@@ -2,6 +2,6 @@
 
 require_once 'vendor/autoload.php'
 
-use Rajan\Profiler
+use Rajanbajaj\Profiler
 
 $class = new Profiler();

@@ -1,5 +1,5 @@
 <?php
-namespace Rajan\Profiler;
+namespace Rajanbajaj\Profiler;
 
 class Profiler {
 
